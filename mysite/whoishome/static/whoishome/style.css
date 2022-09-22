@@ -1,0 +1,11 @@
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #121212;
+        color: #FFF;
+    }
+
+    .modal-content {
+        background-color: #1F1B24;
+        color: #FFF;
+    }
+}
