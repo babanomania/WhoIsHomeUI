@@ -6,12 +6,12 @@
 
     .modal-content,
     .list-group-item {
-        background-color: #1F1B24;
+        background-color: #171717;
         color: #FFF;
     }
 
     .list-group-item:hover {
-        background-color: #171717;
+        background-color: #1F1B24;
         color: #FFF;
     }
 
